@@ -1,0 +1,38 @@
+.left-login{
+    height: 500px;
+    background-color: blueviolet;
+    border-radius: 10px 0px 0px 10px;
+}
+.left-login h2{
+    font-weight: 700;
+    text-shadow: 1px 1px 5px;
+}
+.right-login{
+    height: 500px;
+}
+.login-input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid blueviolet;
+}
+.login-input:focus{
+    outline: none;
+}
+
+.nav-texts{
+    margin-left: 100px;
+}
+
+.otp-btn{
+    background-color: blueviolet;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    font-weight: 600;
+}
+.create{
+    margin-top: 200px;
+    color: blueviolet;
+    cursor: pointer;
+}

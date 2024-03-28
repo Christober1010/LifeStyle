@@ -1,0 +1,31 @@
+.product-div{
+    border: 0.5px solid black;
+    width: 350px;
+    background-color: rgb(244, 244, 244);
+    box-shadow:inset 2px 2px 5px;
+    border-radius: 10px;
+
+    
+}
+.cart-btn{
+    background-color: rgb(20, 19, 19);
+    color: white;
+    font-weight: 500;
+    margin: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 10px;
+}
+.buy-btn{
+    background-color: blueviolet;
+    color: white;
+    font-weight: 500;
+    margin: 10px;
+    padding: 5px 28px;
+    border: none;
+    border-radius: 10px;
+
+}
+.img-div{
+    height: 200px;
+}

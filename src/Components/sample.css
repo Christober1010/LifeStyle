@@ -1,0 +1,6 @@
+.product-outer{
+    overflow: auto;
+}
+.product-box{
+    border: 1px solid black;
+}
